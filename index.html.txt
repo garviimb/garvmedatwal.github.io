@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Global Dryfruits</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Global Dryfruits</h1>
+    <p>Premium Quality Dry Fruits</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#products">Products</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>
+        Global Dryfruits offers high-quality almonds, cashews, raisins, and more. 
+        We ensure freshness, purity, and great taste in every pack.
+    </p>
+</section>
+
+<section id="products">
+    <h2>Our Products</h2>
+
+    <div class="product">
+        <h3>Almonds</h3>
+        <p>Rich in protein and healthy fats.</p>
+    </div>
+
+    <div class="product">
+        <h3>Cashews</h3>
+        <p>Premium quality crunchy cashews.</p>
+    </div>
+
+    <div class="product">
+        <h3>Raisins</h3>
+        <p>Sweet and nutritious dried grapes.</p>
+    </div>
+
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>📞 Phone: 9876543210</p>
+    <p>📧 Email: globaldryfruits@gmail.com</p>
+    <p>📍 Address: Airport Road, Indore, Madhya Pradesh, India</p>
+
+    <iframe 
+        src="https://www.google.com/maps?q=Airport+Road+Indore&output=embed"
+        width="100%" 
+        height="300" 
+        style="border:0;">
+    </iframe>
+</section>
+
+<footer>
+    <p>© 2026 Global Dryfruits. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
